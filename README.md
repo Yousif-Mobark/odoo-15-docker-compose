@@ -1,8 +1,8 @@
-# Quick install
+# Quick install 
 
 Installing Odoo 15 with one command.
 
-(Supports multiple Odoo instances on one server)
+(Supports multiple Odoo instances on one server maintaned by smt)
 
 Install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) yourself, then run:
 
